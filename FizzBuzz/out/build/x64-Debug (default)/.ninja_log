@@ -1,0 +1,5 @@
+# ninja log v5
+1	366	629333093	FizzBuzz/CMakeFiles/FizzBuzz.dir/FizzBuzz.cpp.obj	2980a8098fdc0e5a
+366	639	629333093	FizzBuzz/FizzBuzz.exe	b33e7b22a9ce9259
+0	59	629333128	FizzBuzz/CMakeFiles/FizzBuzz.dir/FizzBuzz.c.obj	534b22f35148a05d
+59	209	629333128	FizzBuzz/FizzBuzz.exe	7378385b4ae7119e
